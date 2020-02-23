@@ -59,10 +59,11 @@ public class Controller implements Initializable
     public void initialize(URL location, ResourceBundle resources)
     {
         initApp();
-      //  showSplashScreen();
+        //showSplashScreen();
     }
 
     private void showSplashScreen(){
+
       final Timer timer = new Timer();
       TimerTask task = new TimerTask()
       {
@@ -82,6 +83,8 @@ public class Controller implements Initializable
 
       };
       timer.schedule(task, 1, 20);
+
+
   }
 
 
