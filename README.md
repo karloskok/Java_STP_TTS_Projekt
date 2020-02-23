@@ -17,7 +17,7 @@ Main screen (insert text, translate, speak)
 
 
 
-Settings screen (adjust pitch and voidce speed)
+Settings screen (adjust pitch and voice speed)
 ![](Pics/screenshot2.PNG)
 
 
